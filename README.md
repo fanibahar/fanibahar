@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fanibahar
 - 👀 I’m interested in product management
 - 🌱 I’m currently learning trusting my intuition
-- 💞️ I’m looking to collaborate on PM practices
 - 📫 How to reach me https://www.linkedin.com/in/fanibahar/
 
 <!---
